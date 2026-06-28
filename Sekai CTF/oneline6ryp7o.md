@@ -1,6 +1,6 @@
 # oneline6ryp7o
 
-**Category:** Cryptography
+**Category:** Cryptography 
 **Author:** Neobeo
 
 ## Challenge
